@@ -398,6 +398,17 @@ justify-content: space-between;
     margin-top: 60px;
 }
 
+.ios:hover {
+    background-color:#66E2DC;
+    ;
+}
+
+.android:hover {
+    background-color:#FFB964;
+   
+}
+
+
 
 
 }
